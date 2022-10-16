@@ -1,0 +1,10 @@
+file command: This is used to find out what type of file a file is.
+history command: This shows commands that have previously been entered.
+clear command: This is used to clear up your display page.
+find command: This is used to find files.
+locate command: This is used to locate files and directories by name.
+hostname command: This shows the system hostname you are currently working in.
+last reboot: This shows the system reboot history.
+cal command: This shows this month's calender.
+ip address command: This displays all network interfaces and ip addresses.
+top command: nThis shows the processes currently running on the system.
